@@ -1,11 +1,13 @@
 # 2021-07-22  - Bauhaus hit by ransomware (REvil)  
 Company: Bauhaus  
 Type: Ransomware  
-Actor: REvil (attribution by Version2)  
+Actor: REvil
 Description:
 
 ## Indicators
 None  
+
+## Detection rules (Yara/Sigma)
 
 ## References/links:  
 https://www.bauhaus.dk/bauhaus-holder-abent-trods-alvorligt-hackerangreb - [Screenshot](images/2021-1-bauhaus2021.jpeg)  
