@@ -5,7 +5,7 @@ Type: Ransomware
 Actor: REvil (attribution by Version2)  
 Description:
 
-## IOC's  
+## Indicators
 None  
 
 ## References/links:  
