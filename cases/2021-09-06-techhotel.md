@@ -1,4 +1,4 @@
-# 06/09/2021  - Tech Hotel hit by ransomware
+# 2021-09-06  - Tech Hotel hit by ransomware
 Company: Tech Hotel  
 Type: Ransomware  
 Actor: 
