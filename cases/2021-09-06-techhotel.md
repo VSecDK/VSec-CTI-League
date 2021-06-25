@@ -8,7 +8,7 @@ Description:
 None  
 
 ## References/links:  
-https://techotel.dk/driftinfo/ - [Screenshot 25/6 2021](images/techhotel-1-2021.jpeg)  
+https://techotel.dk/driftinfo/ - [Screenshot 25/6 2021](images/2021-1-techhotel.jpeg)  
 https://www.version2.dk/artikel/dansk-hotelbooking-betaler-stor-loesesum-ransomware-banditter-var-foerste-vi-gjorde-1092777  
 https://www.berlingske.dk/business/dansk-virksomhed-holdt-som-gidsel-af-cyberkriminelle-i-to-doegn-nu   
 https://thestack.technology/techotel-ransomware-bandits/  
