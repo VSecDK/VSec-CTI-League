@@ -5,6 +5,9 @@ Type: Ransomware
 Actor: REvil (attribution by Version2)  
 Description:
 
+## IOC's  
+None  
+
 ## References/links:  
 https://www.bauhaus.dk/bauhaus-holder-abent-trods-alvorligt-hackerangreb - [Screenshot](images/bauhaus2021.jpeg)  
 https://www.version2.dk/artikel/bauhaus-ramt-alvorligt-hackerangreb-1092826  
