@@ -1,5 +1,5 @@
 # Bauhaus hit by ransomware (REvil)  
-Casenumber: 0001
+Casenumber: 0001  
 Company: Bauhaus  
 Date: 22/07/2021  
 Type: Ransomware  
