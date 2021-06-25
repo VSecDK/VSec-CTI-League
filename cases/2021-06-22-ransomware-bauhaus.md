@@ -1,4 +1,4 @@
-# 2021-07-22  - Bauhaus hit by ransomware (REvil)  
+# 2021-06-22  - Bauhaus hit by ransomware (REvil)  
 Company: Bauhaus  
 Type: Ransomware  
 Actor: REvil
