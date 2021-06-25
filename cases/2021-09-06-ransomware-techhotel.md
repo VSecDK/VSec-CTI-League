@@ -7,6 +7,8 @@ Description:
 ## Indicators
 None  
 
+## Detection rules (Yara/Sigma)
+
 ## References/links:  
 https://techotel.dk/driftinfo/ - [Screenshot 25/6 2021](images/2021-1-techhotel.jpeg)  
 https://www.version2.dk/artikel/dansk-hotelbooking-betaler-stor-loesesum-ransomware-banditter-var-foerste-vi-gjorde-1092777  
