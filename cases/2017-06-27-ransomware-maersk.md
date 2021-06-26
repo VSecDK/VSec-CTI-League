@@ -1,8 +1,8 @@
 # 2017-06-27 - Mærsk hit by ransomware (NotPetya)
 Company: Mærsk  
 Type: Ransomware  
-Actor: 
-Description:  
+Actor:  
+Description:   
 
 ## Indicators
 None
