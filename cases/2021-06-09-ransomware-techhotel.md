@@ -1,7 +1,7 @@
 # 2021-06-09  - Tech Hotel hit by ransomware
 Company: Tech Hotel  
 Type: Ransomware  
-Actor: 
+Actor:  
 Description:
 
 ## Indicators
