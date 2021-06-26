@@ -19,3 +19,4 @@ https://www.version2.dk/artikel/maersk-topchef-vi-geninstallerede-komplet-infras
 https://www.version2.dk/artikel/notpetya-cyberangreb-koster-maersk-milliardbeloeb-1079124  
 https://www.version2.dk/artikel/maersk-opjusterer-omkostninger-efter-notpetya-angreb-1082460  
 https://gvnshtn.com/maersk-me-notpetya/  
+https://darknetdiaries.com/episode/54/
