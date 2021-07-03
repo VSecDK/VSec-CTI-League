@@ -31,6 +31,7 @@ https://github.com/Neo23x0/signature-base/blob/master/yara/crime_revil_general.y
 https://www.bleepingcomputer.com/news/security/revil-ransomware-hits-200-companies-in-msp-supply-chain-attack/  
 https://therecord.media/revil-ransomware-executes-supply-chain-attack-via-malicious-kaseya-update/  
 https://doublepulsar.com/kaseya-supply-chain-attack-delivers-mass-ransomware-event-to-us-companies-76e4ec6ec64b  
+https://www.joesandbox.com/analysis/443736/0/html   
 https://twitter.com/cyb3rops/status/1411091044100448258
 https://twitter.com/GossiTheDog/status/1411291328915382272
 https://twitter.com/KevTheHermit/status/1411276682045100035
