@@ -1,4 +1,4 @@
-# 2021-07-03 - Danish Companies Affected By Kesaya MSP Attack
+# 2021-07-03 - Danish Companies Affected By Kaseya MSP Attack
 **Company:** Multiple  
 **Type:** Ransomware  
 **Actor:** REvil  
