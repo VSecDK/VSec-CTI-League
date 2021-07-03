@@ -5,7 +5,7 @@
 
 **Description**  
 
-Danish companies in REvil configuration:   
+Danish companies in REvil configuration   
 i-trust.dk  
 danskretursystem.dk  
 systemate.dk  
