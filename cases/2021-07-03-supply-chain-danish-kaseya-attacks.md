@@ -33,13 +33,13 @@ https://www.bleepingcomputer.com/news/security/revil-ransomware-hits-200-compani
 https://therecord.media/revil-ransomware-executes-supply-chain-attack-via-malicious-kaseya-update/  
 https://doublepulsar.com/kaseya-supply-chain-attack-delivers-mass-ransomware-event-to-us-companies-76e4ec6ec64b  
 https://www.joesandbox.com/analysis/443736/0/html   
-https://twitter.com/cyb3rops/status/1411091044100448258
-https://twitter.com/GossiTheDog/status/1411291328915382272
-https://twitter.com/KevTheHermit/status/1411276682045100035
+https://twitter.com/cyb3rops/status/1411091044100448258  
+https://twitter.com/GossiTheDog/status/1411291328915382272  
+https://twitter.com/KevTheHermit/status/1411276682045100035  
 https://twitter.com/TomLawrenceTech/status/1411051412423839749  
 https://twitter.com/gossithedog/status/1411036224090001415  
 https://twitter.com/GossiTheDog/status/1411045233136177173  
-https://twitter.com/likethecoins/status/1411033845919621124
-https://www.reddit.com/r/msp/comments/ocggbv/crticial_ransomware_incident_in_progress/
-https://www.reddit.com/r/kaseya/comments/ocf0x1/kaseya_has_been_hacked_with_randomware_that/
-https://gist.githubusercontent.com/fwosar/a63e1249bfccb8395b961d3d780c0354/raw/312b2bbc566cbee2dac7b143dc143c1913ddb729/revil.json (Kaseya REvil configuration dump)
+https://twitter.com/likethecoins/status/1411033845919621124  
+https://www.reddit.com/r/msp/comments/ocggbv/crticial_ransomware_incident_in_progress/  
+https://www.reddit.com/r/kaseya/comments/ocf0x1/kaseya_has_been_hacked_with_randomware_that/  
+https://gist.githubusercontent.com/fwosar/a63e1249bfccb8395b961d3d780c0354/raw/312b2bbc566cbee2dac7b143dc143c1913ddb729/revil.json (Kaseya REvil configuration dump)  
