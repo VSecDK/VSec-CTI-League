@@ -17,3 +17,4 @@ https://thestack.technology/techotel-ransomware-bandits/
 https://www.tvmidtvest.dk/midt-og-vestjylland/hoteller-lammet-af-hacker-angreb-de-sparker-til-en-branche-der-ligger-ned  
 https://twitter.com/mikko/status/1403341075998248963  
 https://politiken.dk/oekonomi/art8256427/Pludselig-gik-alt-i-sort-p%C3%A5-to-hoteller-p%C3%A5-Bornholm.-Sm%C3%A5-virksomheder-er-udsatte-over-for-cyberangreb   
+https://www.version2.dk/artikel/betalte-loesesum-trods-politiets-advarsler-foerst-halvanden-maaned-senere-techotels-systemer   
