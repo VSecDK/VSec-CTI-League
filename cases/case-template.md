@@ -11,4 +11,4 @@ Actor:
 
 ## Related Detection rules (Yara/Sigma)
 
-## References/links:  
+## References/links
