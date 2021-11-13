@@ -5,6 +5,8 @@ Actor:
 
 ## Description  
 
+## Security Advisor
+
 ## Related Indicators
 
 ## Related Detection rules (Yara/Sigma)
