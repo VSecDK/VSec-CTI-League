@@ -2,12 +2,16 @@
 Company: Tech Hotel  
 Type: Ransomware  
 Actor:  
-Description:
 
-## Indicators
+## Description
+
+## Security Advisor
+Eagle Shark Cyber Defence
+
+## Related Indicators
 None  
 
-## Detection rules (Yara/Sigma)
+## Related Detection rules (Yara/Sigma)
 
 ## References/links:  
 https://techotel.dk/driftinfo/ - [Screenshot 25/6 2021](images/2021-1-techhotel.jpeg)  
