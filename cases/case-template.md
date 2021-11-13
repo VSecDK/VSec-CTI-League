@@ -2,11 +2,11 @@
 Company:    
 Type:   
 Actor:   
-Description:  
 
-## Indicators
-None
+## Description  
 
-## Detection rules (Yara/Sigma)
+## Related Indicators
+
+## Related Detection rules (Yara/Sigma)
 
 ## References/links:  
