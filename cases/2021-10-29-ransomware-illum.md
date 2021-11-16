@@ -5,11 +5,16 @@
 
 **Description**  
 Information is currently sparse but it's public known that a sample list of 36.000 internal files have been leaked on conti leak/news tor site in october 2021.  
-It seems that the Illum did not report the incident to Datatilsynet (due to GDPR) in a timely manner.
+It seems that the Illum did not report the incident to Datatilsynet (due to GDPR) in a timely manner. The report to Datatilsynet was accordingly to a tweet from Henrik Moltke a Danish Journalist from Danmarks Radio (who have requested insight into the report) only done when he informed Illum that they had to report it. The journalist also states that they seeming was able to recover from a backup from the day before the attack.
+
+## Security Advisor
+Unknown
 
 ## Indicators
+None
 
 ## Detection rules (Yara/Sigma)  
+None
 
 ## References/links:  
 https://www.version2.dk/artikel/illum-ramt-hackerangreb-bagmaend-truer-med-at-offentliggoere-kunders-data-1093611   
