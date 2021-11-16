@@ -17,3 +17,4 @@ https://www.dr.dk/nyheder/seneste/hackere-truer-illum-med-offentliggoere-kundeda
 https://ekstrabladet.dk/nyheder/samfund/hackere-kraever-loesesum-fra-illum/8977761   
 https://www.computerworld.dk/art/258572/stormagasinet-illum-ramt-af-ransomware-kundedata-er-truet  
 https://borsen.dk/nyheder/virksomheder/illum-ramt-af-hackerangreb-bagmaend-truer-med-at-offentliggore-kundedata   
+https://twitter.com/moltke/status/1460611788458926081   
