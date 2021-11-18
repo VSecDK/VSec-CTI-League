@@ -23,3 +23,4 @@ https://www.computerworld.dk/art/258572/stormagasinet-illum-ramt-af-ransomware-k
 https://borsen.dk/nyheder/virksomheder/illum-ramt-af-hackerangreb-bagmaend-truer-med-at-offentliggore-kundedata   
 https://twitter.com/moltke/status/1460611788458926081   
 https://www.dr.dk/nyheder/penge/berygtet-hackergruppe-afpresser-stormagasin-hundredvis-af-illum-medarbejderes-data  
+https://www.version2.dk/artikel/illum-anmelder-hackerangreb-datatilsynet-omfanget-under-afklaring-1093648  
