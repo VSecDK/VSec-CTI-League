@@ -1,8 +1,8 @@
-# YYYY-MM-DD - Type - Titel with company name 
-Company:    
-Type:   
-Sector:  
-Actor:   
+# 2021-11-20 - Unknown type - Vestas hit by cyber attack 
+Company: Vestas A/S   
+Type: Unknown  
+Sector: Energy 
+Actor: Unknown  
 
 ## Description  
 
