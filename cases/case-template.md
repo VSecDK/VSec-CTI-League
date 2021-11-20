@@ -1,9 +1,11 @@
-# YYYY-MM-DD - Titel with company name
+# YYYY-MM-DD - Type - Titel with company name 
 Company:    
 Type:   
 Actor:   
 
 ## Description  
+
+## Timeline
 
 ## Security Advisor
 
@@ -11,4 +13,4 @@ Actor:
 
 ## Related Detection rules (Yara/Sigma)
 
-## References/links
+## References
