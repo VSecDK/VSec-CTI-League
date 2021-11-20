@@ -1,6 +1,7 @@
 # YYYY-MM-DD - Type - Titel with company name 
 Company:    
 Type:   
+Sector:  
 Actor:   
 
 ## Description  
