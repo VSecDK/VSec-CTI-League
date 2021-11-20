@@ -7,7 +7,7 @@ Actor: Unknown
 ## Description  
 
 ## Timeline
-November 19 - Vestas releases the following [press statement](https://www.vestas.com/en/media/company-news/2021/vestas-impacted-by-cyber-security-incident-c3457473) - backup [PDF](images/vestas.pdf)    
+November 19 - Vestas releases the following [press statement](https://www.vestas.com/en/media/company-news/2021/vestas-impacted-by-cyber-security-incident-c3457473) - backup [PDF](images/vestas-press-statement.pdf)    
 
 ## Security Advisor
 Unknown
