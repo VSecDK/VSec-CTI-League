@@ -4,7 +4,7 @@
 **Actor:** REvil  
 
 **Description**  
-Not all companies in the configuration file was hit by the related attack but where there from prior attacks.
+Not all companies in the configuration file was hit by the attack but where there from prior attacks.
 
 Danish companies in REvil configuration   
 i-trust.dk  
