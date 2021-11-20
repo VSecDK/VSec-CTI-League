@@ -1,4 +1,4 @@
-# 2021-11-20 - Unknown type - Vestas hit by cyber attack 
+# 2021-11-19 - Unknown type - Vestas hit by cyber attack 
 Company: Vestas A/S   
 Type: Unknown  
 Sector: Energy 
@@ -7,6 +7,7 @@ Actor: Unknown
 ## Description  
 
 ## Timeline
+November 19 - Vestas releases the following [press statement](https://www.vestas.com/en/media/company-news/2021/vestas-impacted-by-cyber-security-incident-c3457473)   
 
 ## Security Advisor
 
