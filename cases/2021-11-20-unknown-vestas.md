@@ -20,4 +20,5 @@ Unknown
 https://www.vestas.com/en/media/company-news/2021/vestas-impacted-by-cyber-security-incident-c3457473   
 https://borsen.dk/nyheder/virksomheder/vestas-ramt-af-cyberangreb-kunder-kan-blive-paavirket  
 https://nyheder.tv2.dk/samfund/2021-11-20-vestas-ramt-af-cyberangreb-it-systemer-lukkes-ned  
+https://www.berlingske.dk/business/vestas-ramt-af-cyberangreb-it-systemer-lukkes-ned  
 https://www.wired.com/story/wind-turbine-hack/ (not directly related, old article from 2017)  
