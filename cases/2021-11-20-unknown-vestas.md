@@ -36,7 +36,8 @@ Unknown
 
 ## References   
 https://www.vestas.com/en/media/company-news/2021/vestas-impacted-by-cyber-security-incident-c3457473   
-https://www.vestas.com/en/media/company-news/2021/update-on-cyber-security-incident-c3457795   
+https://www.vestas.com/en/media/company-news/2021/update-on-cyber-security-incident-c3457795  
+https://finans.dk/erhverv/ECE13487092/vestas-om-hackerangreb-data-er-blevet-kompromitteret/   
 https://www.reuters.com/markets/europe/vestas-hit-by-cyber-security-incident-shuts-some-it-systems-2021-11-20/  
 https://borsen.dk/nyheder/virksomheder/vestas-ramt-af-cyberangreb-kunder-kan-blive-paavirket  
 https://nyheder.tv2.dk/samfund/2021-11-20-vestas-ramt-af-cyberangreb-it-systemer-lukkes-ned   
