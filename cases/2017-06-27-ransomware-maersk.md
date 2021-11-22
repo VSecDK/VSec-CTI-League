@@ -1,15 +1,21 @@
 # 2017-06-27 - Mærsk hit by ransomware (NotPetya)
 Company: Mærsk  
 Type: Ransomware  
-Actor:  
-Description:   
+Sector: Logistics  
+Actor: Unknown / NotPetya
+
+## Description
+
+## Timeline
+
+## Security Advisor
 
 ## Indicators
 None
 
 ## Detection rules (Yara/Sigma)
 
-## References/links:  
+## References
 https://twitter.com/Maersk/status/879966081611431936  
 https://www.dr.dk/nyheder/penge/cyberangreb-laegger-maersk-havne-ned-paa-ubestemt-tid-alt-staar-stille  
 https://www.dr.dk/nyheder/penge/maersk-efter-cyberangreb-vi-har-inddaemmet-problemet  
