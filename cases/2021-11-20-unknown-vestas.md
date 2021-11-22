@@ -42,5 +42,6 @@ https://www.reuters.com/markets/europe/vestas-hit-by-cyber-security-incident-shu
 https://borsen.dk/nyheder/virksomheder/vestas-ramt-af-cyberangreb-kunder-kan-blive-paavirket  
 https://nyheder.tv2.dk/samfund/2021-11-20-vestas-ramt-af-cyberangreb-it-systemer-lukkes-ned   
 https://www.berlingske.dk/business/vestas-ramt-af-cyberangreb-it-systemer-lukkes-ned   
-https://www.bloomberg.com/news/articles/2021-11-20/vestas-shuts-down-some-it-systems-after-cyber-security-incident
+https://www.bloomberg.com/news/articles/2021-11-20/vestas-shuts-down-some-it-systems-after-cyber-security-incident  
+https://www.version2.dk/artikel/vestas-ramt-hackerangreb-1093673  
 https://www.wired.com/story/wind-turbine-hack/ (not directly related, old article from 2017)  
