@@ -47,4 +47,7 @@ https://www.version2.dk/artikel/vestas-ramt-hackerangreb-1093673
 https://www.computerworld.dk/art/258705/hackerangreb-af-vestas-paavirker-stadig-centrale-it-systemer-data-er-blevet-kompromitteret  
 https://www.bleepingcomputer.com/news/security/wind-turbine-giant-vestas-data-compromised-in-cyberattack/  
 https://www.dr.dk/nyheder/penge/i-oktober-advarede-efterretningstjenesten-energisektoren-om-angreb-nu-har-vestas-haft  
+https://finans.dk/erhverv/ECE13487221/cyberangreb-kan-goere-vestasaktien-til-en-oplagt-investering/  
+https://borsen.dk/nyheder/generelt/vi-maa-udfordre-os-selv-som-samfund-undervurderer-vi-cyberkriminalitet  
+  
 https://www.wired.com/story/wind-turbine-hack/ (not directly related, old article from 2017)  
