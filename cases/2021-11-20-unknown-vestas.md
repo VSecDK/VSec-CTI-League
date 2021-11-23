@@ -44,4 +44,5 @@ https://nyheder.tv2.dk/samfund/2021-11-20-vestas-ramt-af-cyberangreb-it-systemer
 https://www.berlingske.dk/business/vestas-ramt-af-cyberangreb-it-systemer-lukkes-ned   
 https://www.bloomberg.com/news/articles/2021-11-20/vestas-shuts-down-some-it-systems-after-cyber-security-incident  
 https://www.version2.dk/artikel/vestas-ramt-hackerangreb-1093673  
+https://www.computerworld.dk/art/258705/hackerangreb-af-vestas-paavirker-stadig-centrale-it-systemer-data-er-blevet-kompromitteret  
 https://www.wired.com/story/wind-turbine-hack/ (not directly related, old article from 2017)  
