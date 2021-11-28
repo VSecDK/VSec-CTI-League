@@ -34,8 +34,8 @@ Vestas has already initiated a gradual and controlled reopening of all IT system
 Backup [PDF](images/vestas-press-update1.pdf)    
 
 ### November 26
-Vestas Vice President, Head of Communications Anders Riis confirms to MarketWire and in an [article](https://finans.dk/erhverv/ECE13505712/vestas-med-itstatus-det-gaar-fint-fremad/) to Finans, that most systems are up and running again. They are generally seeing good progess but some are purposingly still beening shutdown.
-He also states that they have not seen any substantial impact on production or operations due to the incident. They have also not seen any impact on the windfarms/mills.
+Vestas Vice President, Head of Communications Anders Riis confirms to MarketWire and in an [article](https://finans.dk/erhverv/ECE13505712/vestas-med-itstatus-det-gaar-fint-fremad/) to Finans, that most systems are up and running again. They are generally seeing good progess but some systems are purposingly still beening shutdown.
+He also states that they have not seen any substantial impact on production or operations due to the incident. They have also not seen any impact on the windfarms/mills, supply-chain or customers.
 
 ### November 28
 Vestas confirms in an [article](https://www.dr.dk/nyheder/penge/cyberkriminelle-afpresser-dansk-vindmoellegigant/) on Danmarks Radio website that Vestas were in fact hit by ransomware.
