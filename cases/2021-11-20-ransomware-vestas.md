@@ -8,7 +8,7 @@ Actor: Unknown
 Vestas was hit by ransomware on the 19th of November 2021.
 
 **Communication**   
-Vestas has sent out two press releases with sparingly information on the incident but on the 28th of November they confirmed to "Dansk Radio" that they were in fact hit by a ransomware attack.
+Vestas has sent out two press releases with sparingly information on the incident but on the 28th of November they confirmed to "Danmarks Radio" that they were in fact hit by a ransomware attack.
 
 **Economical Impact**   
 Vestas shares closed on Monday the 22th of November 2021 with a loss of 2,5%, corresponding to a plunge in the wind turbine giant's market value of DKK 5.8 billion.
@@ -34,7 +34,7 @@ Vestas has already initiated a gradual and controlled reopening of all IT system
 Backup [PDF](images/vestas-press-update1.pdf)    
 
 ### November 26
-Vestas Vice President, Head of Communications Anders Riis confirms to MarketWire and in an [article](https://finans.dk/erhverv/ECE13505712/vestas-med-itstatus-det-gaar-fint-fremad/) to Finans, that most systems are up and running again. They are generally seeing good progess but some systems are purposingly still beening shutdown.
+Vestas Vice President, Head of Communications Anders Riis confirms to MarketWire and in an [article](https://finans.dk/erhverv/ECE13505712/vestas-med-itstatus-det-gaar-fint-fremad/) to Finans, that most systems are up and running again. They are generally seeing good progess but some systems are purposingly still shutdown.
 He also states that they have not seen any substantial impact on production or operations due to the incident. They have also not seen any impact on the windfarms/mills, supply-chain or customers.
 
 ### November 28
