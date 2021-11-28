@@ -41,7 +41,7 @@ He also states that they have not seen any substantial impact on production or o
 Vestas confirms in an [article](https://www.dr.dk/nyheder/penge/cyberkriminelle-afpresser-dansk-vindmoellegigant/) on Danmarks Radio website that Vestas were in fact hit by ransomware.
 
 ## Security Advisor
-CSIS ([unconfirmed by Vestas or CSIS](
+CSIS ([unconfirmed by Vestas/CSIS](
 https://finans.dk/erhverv/ECE13489688/cyberangreb-sender-vestas-i-armene-paa-csis-sikkerhedseksperter/)) 
 
 ## Related Indicators
