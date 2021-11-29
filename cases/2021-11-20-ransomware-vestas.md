@@ -78,7 +78,10 @@ https://www.version2.dk/artikel/status-paa-vestas-angrebet-interne-systemer-paav
 https://finans.dk/erhverv/ECE13505712/vestas-med-itstatus-det-gaar-fint-fremad/   
 
 ### 28.11.2021  
-https://www.dr.dk/nyheder/penge/cyberkriminelle-afpresser-dansk-vindmoellegigant   
+https://www.dr.dk/nyheder/penge/cyberkriminelle-afpresser-dansk-vindmoellegigant  
+
+### 29.11.2021
+https://www.vestas.com/en/media/company-news/2021/second-update-on-cyber-incident-c3462120  
 
 ### Other
 https://www.wired.com/story/wind-turbine-hack/ (not directly related, old article from 2017)   
