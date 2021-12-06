@@ -8,7 +8,7 @@ Actor: Lockbit 2.0
 Vestas was hit by ransomware on the 19th of November 2021 by the threat actor 
 
 **Communication**   
-Vestas has sent out four press releases first with sparingly information on the incident but on the 28th of November they confirmed to "Danmarks Radio" that they were in fact hit by a ransomware attack. On the 6th of December it was confirmed by Vestas that they where hit by the lockbit 2.0 ransomware / threat actor.
+Vestas has sent out four press releases first with sparingly information on the incident but on the 28th of November they confirmed to "Danmarks Radio" that they were in fact hit by a ransomware attack. On the 6th of December 2021 it was confirmed by Vestas that they where hit by the Lockbit 2.0 ransomware.
 
 **Economical Impact**   
 Vestas shares closed on Monday the 22th of November 2021 with a loss of 2,5%, corresponding to a plunge in the wind turbine giant's market value of DKK 5.8 billion.
@@ -82,6 +82,7 @@ https://www.bleepingcomputer.com/news/security/wind-turbine-giant-vestas-data-co
 https://www.computerworld.dk/art/258705/hackerangreb-af-vestas-paavirker-stadig-centrale-it-systemer-data-er-blevet-kompromitteret   
 https://www.version2.dk/artikel/vestas-ramt-hackerangreb-1093673  
 https://finans.dk/erhverv/ECE13487092/vestas-om-hackerangreb-data-er-blevet-kompromitteret/   
+https://energiwatch.dk/article13490178.ece
 
 ### 24.11.2021  
 https://www.version2.dk/artikel/status-paa-vestas-angrebet-interne-systemer-paavirket-data-kompromitteret-1093691   
