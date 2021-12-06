@@ -46,7 +46,7 @@ Vestas confirms in it's [second updated statement](https://www.vestas.com/en/med
 Backup [PDF](images/vestas-press-update2.pdf)    
 
 ### December 6
-Vestas confirms in it's [third updated statement](https://www.vestas.com/en/media/company-news/2021/third-update-on-cyber-incident-c3466518) that data has been stolen and extortion of Vestas has been attempted by leaking data. Vestas also [confirms](https://www.dr.dk/nyheder/seneste/data-stjaalet-fra-vestas) to "Danmarks Radio" that they have indeed been hit by Lockbit 2.0. This is also confirmed on the onion leak site (image).
+Vestas confirms in it's [third updated statement](https://www.vestas.com/en/media/company-news/2021/third-update-on-cyber-incident-c3466518) that data has been stolen and extortion of Vestas has been attempted by leaking data. Vestas also [confirms](https://www.dr.dk/nyheder/seneste/data-stjaalet-fra-vestas) to "Danmarks Radio" that they have indeed been hit by Lockbit 2.0. This is also confirmed on the onion leak site ([image from leaksite](images/vestas-screenshot-lockbit-leaksite-2021-12-06%2020-22.png)).
 
 They also continue to state that "The work and investigations are still ongoing, and Vestas still has no indication that the event has impacted customer and supply chain operations, a view which is supported by third-party experts."
 
