@@ -2,13 +2,13 @@
 Company: Vestas A/S   
 Type: Ransomware   
 Sector: Energy  
-Actor: Unknown  
+Actor: Lockbit 2.0 
 
 ## Description  
-Vestas was hit by ransomware on the 19th of November 2021.
+Vestas was hit by ransomware on the 19th of November 2021 by the threat actor 
 
 **Communication**   
-Vestas has sent out two press releases with sparingly information on the incident but on the 28th of November they confirmed to "Danmarks Radio" that they were in fact hit by a ransomware attack.
+Vestas has sent out four press releases first with sparingly information on the incident but on the 28th of November they confirmed to "Danmarks Radio" that they were in fact hit by a ransomware attack. On the 6th of December it was confirmed by Vestas that they where hit by the lockbit 2.0 ransomware / threat actor.
 
 **Economical Impact**   
 Vestas shares closed on Monday the 22th of November 2021 with a loss of 2,5%, corresponding to a plunge in the wind turbine giant's market value of DKK 5.8 billion.
@@ -39,6 +39,18 @@ He also states that they have not seen any substantial impact on production or o
 
 ### November 28
 Vestas confirms in an [article](https://www.dr.dk/nyheder/penge/cyberkriminelle-afpresser-dansk-vindmoellegigant/) on Danmarks Radio website that Vestas were in fact hit by ransomware.
+
+### November 29
+Vestas confirms in it's [second updated statement](https://www.vestas.com/en/media/company-news/2021/second-update-on-cyber-incident-c3462120) that Vestas were in fact hit by ransomware.
+
+Backup [PDF](images/vestas-press-update2.pdf)    
+
+### December 6
+Vestas confirms in it's [third updated statement](https://www.vestas.com/en/media/company-news/2021/third-update-on-cyber-incident-c3466518) that data has been stolen and extortion of Vestas has been attempted by leaking data. Vestas also [confirms](https://www.dr.dk/nyheder/seneste/data-stjaalet-fra-vestas) to "Danmarks Radio" that they have indeed been hit by Lockbit 2.0. This is also confirmed on the onion leak site (image).
+
+They also continue to state that "The work and investigations are still ongoing, and Vestas still has no indication that the event has impacted customer and supply chain operations, a view which is supported by third-party experts."
+
+Backup [PDF](images/vestas-press-update3.pdf)    
 
 ## Security Advisor
 CSIS ([unconfirmed by Vestas/CSIS](
@@ -82,6 +94,10 @@ https://www.dr.dk/nyheder/penge/cyberkriminelle-afpresser-dansk-vindmoellegigant
 
 ### 29.11.2021
 https://www.vestas.com/en/media/company-news/2021/second-update-on-cyber-incident-c3462120  
+
+### 06.12.2021
+https://www.vestas.com/en/media/company-news/2021/third-update-on-cyber-incident-c3466518   
+https://www.dr.dk/nyheder/seneste/data-stjaalet-fra-vestas
 
 ### Other
 https://www.wired.com/story/wind-turbine-hack/ (not directly related, old article from 2017)   
