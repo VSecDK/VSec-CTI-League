@@ -101,4 +101,5 @@ https://www.vestas.com/en/media/company-news/2021/third-update-on-cyber-incident
 https://www.dr.dk/nyheder/seneste/data-stjaalet-fra-vestas
 
 ### Other
+https://twitter.com/KraftCERT/status/1462157010506588169?s=20 (Reply to a Danish tweet about the incident from Norwegian KraftCERT stating that they cannot contact Vestas and that they are affected)   
 https://www.wired.com/story/wind-turbine-hack/ (not directly related, old article from 2017)   
