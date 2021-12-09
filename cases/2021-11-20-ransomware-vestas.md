@@ -101,8 +101,9 @@ https://www.vestas.com/en/media/company-news/2021/third-update-on-cyber-incident
 https://www.dr.dk/nyheder/seneste/data-stjaalet-fra-vestas
 
 ### 08.12.2021
-https://www.version2.dk/artikel/sidste-gang-roeg-accentures-filer-online-ransomware-hackere-udskyder-vestas-laek-1093796
-https://www.version2.dk/artikel/hackere-har-offentliggjort-vestas-data-paa-nettet-tusindvis-kunders-finansielle-oplysninger
+https://www.version2.dk/artikel/sidste-gang-roeg-accentures-filer-online-ransomware-hackere-udskyder-vestas-laek-1093796   
+https://www.version2.dk/artikel/hackere-har-offentliggjort-vestas-data-paa-nettet-tusindvis-kunders-finansielle-oplysninger  
+https://www.computerworld.dk/art/258941/her-er-hackergruppen-der-har-faaet-ram-paa-vestas  
 
 ### Other
 https://twitter.com/KraftCERT/status/1462157010506588169?s=20 (Reply to a Danish tweet about the incident from Norwegian KraftCERT stating that they cannot contact Vestas and that they are affected)   
