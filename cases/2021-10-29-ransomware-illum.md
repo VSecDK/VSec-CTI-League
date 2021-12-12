@@ -1,4 +1,4 @@
-# 2021-07-03 - Illum hit by ransomware attack (Conti)
+# 2021-10-03 - Illum hit by ransomware attack (Conti)
 **Company:** Illum  
 **Type:** Ransomware  
 **Actor:** Conti  
