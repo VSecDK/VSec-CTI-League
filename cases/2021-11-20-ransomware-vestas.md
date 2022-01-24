@@ -8,7 +8,7 @@ Actor: Lockbit 2.0
 Vestas was hit by ransomware on the 19th of November 2021 by the threat actor 
 
 **Communication**   
-Vestas has sent out four press releases first with sparingly information on the incident but on the 28th of November they confirmed to "Danmarks Radio" that they were in fact hit by a ransomware attack. On the 6th of December 2021 it was confirmed by Vestas that they were in fact hit by the Lockbit 2.0 ransomware. A 200GB leak that included pictures passports (also of top management and the security department), salery information, copies written signatures, technical data and very recent strategy documentation [according](https://www.version2.dk/artikel/vestas-hacket-vokser-topledelse-produkt-data-kompromitteret-kaempe-laek-1094059) to an article published in January 2022 from the Danish news Version2.   
+Vestas has sent out four press releases first with sparingly information on the incident but on the 28th of November they confirmed to "Danmarks Radio" that they were in fact hit by a ransomware attack. On the 6th of December 2021 it was confirmed by Vestas that they were in fact hit by the Lockbit 2.0 ransomware. A 200GB leak that included pictures passports (also of top management and the security department), salery information, copies written signatures, technical data and very recent strategy documentation [according](https://www.version2.dk/artikel/vestas-hacket-vokser-topledelse-produkt-data-kompromitteret-kaempe-laek-1094059) to an article published in January 2022 from the danish news site Version2.   
 
 Vestas have been critised in the media for keeping to much information about the incident to themselves. Vestas do not think that is the case.
 
