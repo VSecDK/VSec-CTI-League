@@ -8,7 +8,9 @@ Actor: Lockbit 2.0
 Vestas was hit by ransomware on the 19th of November 2021 by the threat actor 
 
 **Communication**   
-Vestas has sent out four press releases first with sparingly information on the incident but on the 28th of November they confirmed to "Danmarks Radio" that they were in fact hit by a ransomware attack. On the 6th of December 2021 it was confirmed by Vestas that they were in fact hit by the Lockbit 2.0 ransomware.
+Vestas has sent out four press releases first with sparingly information on the incident but on the 28th of November they confirmed to "Danmarks Radio" that they were in fact hit by a ransomware attack. On the 6th of December 2021 it was confirmed by Vestas that they were in fact hit by the Lockbit 2.0 ransomware. A 200GB leak that included pictures passports (also of top management and the security department), salery information, copies written signatures, technical data and very recent strategy documentation [according](https://www.version2.dk/artikel/vestas-hacket-vokser-topledelse-produkt-data-kompromitteret-kaempe-laek-1094059) to an article published in January 2022 from the Danish news Version2.   
+
+Vestas have been critised in the media for keeping to much information about the incident to themselves. Vestas do not think that is the case.
 
 **Economical Impact**   
 Vestas shares closed on Monday the 22th of November 2021 with a loss of 2,5%, corresponding to a plunge in the wind turbine giant's market value of DKK 5.8 billion.
@@ -104,6 +106,9 @@ https://www.dr.dk/nyheder/seneste/data-stjaalet-fra-vestas
 https://www.version2.dk/artikel/sidste-gang-roeg-accentures-filer-online-ransomware-hackere-udskyder-vestas-laek-1093796   
 https://www.version2.dk/artikel/hackere-har-offentliggjort-vestas-data-paa-nettet-tusindvis-kunders-finansielle-oplysninger  
 https://www.computerworld.dk/art/258941/her-er-hackergruppen-der-har-faaet-ram-paa-vestas  
+
+### 24.12.2022
+https://www.version2.dk/artikel/vestas-hacket-vokser-topledelse-produkt-data-kompromitteret-kaempe-laek-1094059   
 
 ### Other
 https://twitter.com/KraftCERT/status/1462157010506588169?s=20 (Reply to a Danish tweet about the incident from Norwegian KraftCERT stating that they cannot contact Vestas and that they are affected)   
