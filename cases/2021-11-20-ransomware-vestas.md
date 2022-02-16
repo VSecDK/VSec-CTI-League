@@ -16,7 +16,7 @@ Vestas have been critised in the media for keeping to much information about the
 Vestas shares closed on Monday the 22th of November 2021 with a loss of 2,5%, corresponding to a plunge in the wind turbine giant's market value of DKK 5.8 billion.
 
 ## Timeline
-### November 19 
+### November 19 2021
 Vestas releases the following [press statement](https://www.vestas.com/en/media/company-news/2021/vestas-impacted-by-cyber-security-incident-c3457473):  
 "Vestas has on 19 November 2021 been impacted by a cyber security incident. To contain the issue, IT systems are shut down across multiple business units and locations.
 As part of our crisis management setup for cyber security, we are working together with our internal and external partners to contain the issue fully and recover our systems.
@@ -24,7 +24,7 @@ Customers, employees and other stakeholders may be affected by the shutdown of s
 
 Backup [PDF](images/vestas-press-statement.pdf)    
 
-### November 22 
+### November 22 2021
 Vestas releases an [updated statement](https://www.vestas.com/en/media/company-news/2021/update-on-cyber-security-incident-c3457795):   
 "The company’s preliminary findings indicate that the incident has impacted parts of Vestas’ internal IT 
 infrastructure and that data has been compromised. At this stage, the work and investigation are still 
@@ -35,24 +35,29 @@ Vestas has already initiated a gradual and controlled reopening of all IT system
 
 Backup [PDF](images/vestas-press-update1.pdf)    
 
-### November 26
+### November 26 2021
 Vestas Vice President, Head of Communications Anders Riis confirms to MarketWire and in an [article](https://finans.dk/erhverv/ECE13505712/vestas-med-itstatus-det-gaar-fint-fremad/) to Finans, that most systems are up and running again. They are generally seeing good progess but some systems are purposingly still shutdown.
 He also states that they have not seen any substantial impact on production or operations due to the incident. They have also not seen any impact on the windfarms/mills, supply-chain or customers.
 
-### November 28
+### November 28 2021
 Vestas confirms in an [article](https://www.dr.dk/nyheder/penge/cyberkriminelle-afpresser-dansk-vindmoellegigant/) on Danmarks Radio website that Vestas were in fact hit by ransomware.
 
-### November 29
+### November 29 2021
 Vestas confirms in it's [second updated statement](https://www.vestas.com/en/media/company-news/2021/second-update-on-cyber-incident-c3462120) that Vestas were in fact hit by ransomware.
 
 Backup [PDF](images/vestas-press-update2.pdf)    
 
-### December 6
+### December 6 2021
 Vestas confirms in it's [third updated statement](https://www.vestas.com/en/media/company-news/2021/third-update-on-cyber-incident-c3466518) that data has been stolen and extortion of Vestas has been attempted by leaking data. Vestas also [confirms](https://www.dr.dk/nyheder/seneste/data-stjaalet-fra-vestas) to "Danmarks Radio" that they have indeed been hit by Lockbit 2.0. This is also confirmed on the onion leak site ([image from leaksite](images/vestas-screenshot-lockbit-leaksite-2021-12-06%2020-22.png)).
 
 They also continue to state that "The work and investigations are still ongoing, and Vestas still has no indication that the event has impacted customer and supply chain operations, a view which is supported by third-party experts."
 
 Backup [PDF](images/vestas-press-update3.pdf)    
+
+### January 13-14 2022
+The incident is covered on Danish national television (DR) in the program "[21 Søndag in January 2022](https://www.dr.dk/drtv/se/21-soendag_-nicolai-mangler-hjaelp_298463)" (aprox. 3min in).
+The CEO of Vestas Henrik Andersen is interviewed about the incident and the impact.
+A long follow-up article is [posted](https://www.dr.dk/nyheder/viden/teknologi/frygtede-skulle-lukke-alle-vindmoeller-nu-aabner-vestas-op-om-hacking-angreb) to the DR webpage on the 14th of January 2022.
 
 ## Security Advisor
 CSIS ([unconfirmed by Vestas/CSIS](
@@ -109,6 +114,9 @@ https://www.computerworld.dk/art/258941/her-er-hackergruppen-der-har-faaet-ram-p
 
 ### 24.01.2022
 https://www.version2.dk/artikel/vestas-hacket-vokser-topledelse-produkt-data-kompromitteret-kaempe-laek-1094059   
+
+### 13.02.2022
+https://www.dr.dk/drtv/se/21-soendag_-nicolai-mangler-hjaelp_298463 (Incident covered in DRTV 21 Søndag (aprox. 3min in) with 
 
 ### 14.02.2022
 https://www.dr.dk/nyheder/viden/teknologi/frygtede-skulle-lukke-alle-vindmoeller-nu-aabner-vestas-op-om-hacking-angreb
