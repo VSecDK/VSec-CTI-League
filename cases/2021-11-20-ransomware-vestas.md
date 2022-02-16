@@ -107,8 +107,11 @@ https://www.version2.dk/artikel/sidste-gang-roeg-accentures-filer-online-ransomw
 https://www.version2.dk/artikel/hackere-har-offentliggjort-vestas-data-paa-nettet-tusindvis-kunders-finansielle-oplysninger  
 https://www.computerworld.dk/art/258941/her-er-hackergruppen-der-har-faaet-ram-paa-vestas  
 
-### 24.12.2022
+### 24.12.2021
 https://www.version2.dk/artikel/vestas-hacket-vokser-topledelse-produkt-data-kompromitteret-kaempe-laek-1094059   
+
+### 14.02.2022
+https://www.dr.dk/nyheder/viden/teknologi/frygtede-skulle-lukke-alle-vindmoeller-nu-aabner-vestas-op-om-hacking-angreb
 
 ### Other
 https://twitter.com/KraftCERT/status/1462157010506588169?s=20 (Reply to a Danish tweet about the incident from Norwegian KraftCERT stating that they cannot contact Vestas and that they are affected)   
