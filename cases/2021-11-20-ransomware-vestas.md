@@ -107,7 +107,7 @@ https://www.version2.dk/artikel/sidste-gang-roeg-accentures-filer-online-ransomw
 https://www.version2.dk/artikel/hackere-har-offentliggjort-vestas-data-paa-nettet-tusindvis-kunders-finansielle-oplysninger  
 https://www.computerworld.dk/art/258941/her-er-hackergruppen-der-har-faaet-ram-paa-vestas  
 
-### 24.12.2021
+### 24.01.2022
 https://www.version2.dk/artikel/vestas-hacket-vokser-topledelse-produkt-data-kompromitteret-kaempe-laek-1094059   
 
 ### 14.02.2022
