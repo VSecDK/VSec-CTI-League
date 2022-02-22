@@ -8,7 +8,7 @@ Actor: Unknown
 The paralyzing (not confirmed ransomware) attack took down the companies phone, email and order systems.
 
 **Communication**   
-Not much is known but it is stated from the company that they have a policy to not take [any contact with criminals](https://itwatch.dk/ITNyt/Brancher/Sikkerhed/article13646116.ece) and only rebuild systems in case of an attack.
+Not much is known but it is stated from the company that they have a policy to not communicate [with any criminals](https://itwatch.dk/ITNyt/Brancher/Sikkerhed/article13646116.ece) and only rebuild systems in case of an attack.
 
 **Economical Impact**   
 Estimated cost is [1.000.000 DKK](https://itwatch.dk/ITNyt/Brancher/Sikkerhed/article13646116.ece) in lost revenue between christmas and new years eve.
