@@ -1,7 +1,7 @@
 # 2021-02-05 - Ransomware - Support IT
 Company: MSP - IT Support (SIT) multiple companies affected  
 Type: Ransomware   
-Sector: Multiple
+Sector: Multiple  
 Actor: Unknown  
 
 ## Description  
