@@ -39,3 +39,6 @@ https://www.computerworld.dk/art/259931/saadan-kan-russiske-hackere-vaere-kommet
 
 ### 04.03.2022
 https://jyllands-posten.dk/jplokal/jpranders/ECE13792059/hvorfor-skulle-et-russisk-cyberangreb-blive-rettet-mod-en-dansk-by-ifoelge-professor-er-der-to-grunde/
+
+### Other
+https://www.linkedin.com/feed/update/urn:li:activity:6905133322784034817/
