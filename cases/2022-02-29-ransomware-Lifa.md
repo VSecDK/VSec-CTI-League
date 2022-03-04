@@ -15,8 +15,18 @@ Hit by ransomware
 ## Security Advisor
 Truesec  
 
-## Related Indicators
-Unknown
+## Related Indicators of compromise
+150.129.234[.]203:82 Download IP for Chimaera cryptojacking malware  
+51.222.121[.]180:82 Download IP for Chimaera cryptojacking malware  
+103.142.218[.]18:18 Download IP for Chimaera cryptojacking malware  
+45.32.120[.]201 C2 IP for persistence on VMware Horizon VM  
+176.113.115[.]107 Download IP for Atera Remote access used by Conti  
+193.27.228[.]127 Download IP for Atera Remote access used by Conti  
+
+According to Truesec Denmark CEO and VSec Member the above IOC's are related to the incident.  
+Entrypoint was a vulnerability that an external vulnerability scanner had missed.
+
+Source: https://www.truesec.com/hub/blog/teamtnt-gang-is-part-of-fin12-conti-syndicate-a-truesec-investigation
 
 ## Related Detection rules (Yara/Sigma)
 Unknown
