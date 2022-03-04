@@ -23,7 +23,10 @@ Unknown
 
 ## References   
 
-### 02.02.2022
+### 01.03.2022
+https://www.computerworld.dk/art/259616/den-danske-million-virksomhed-lifa-ramt-af-russisk-hackerangreb-gennemfoerer-kontrolleret-nedlukning  
+
+### 02.03.2022
 https://fyens.dk/artikel/stor-fynsk-virksomhed-ramt-af-russisk-hackerangreb-jeg-tror-de-vil-ramme-infrastrukturen-i-danmark  
 https://nyheder.tv2.dk/samfund/2022-03-02-dansk-firma-lagt-ned-af-russiske-hackere-er-gaaet-i-hoejeste-kriseberedskab  
 
