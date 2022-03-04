@@ -1,4 +1,4 @@
-# 2021-02-05 - Ransomware - Lifa
+# 2021-02-29 - Ransomware - Lifa
 Company: Lifa   
 Type: Ransomware   
 Sector: Production / Land surveying  
