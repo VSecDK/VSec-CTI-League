@@ -37,5 +37,5 @@ https://nyheder.tv2.dk/samfund/2022-03-02-dansk-firma-lagt-ned-af-russiske-hacke
 https://finans.dk/tech/ECE13793541/angrebet-virksomhed-det-ville-vaere-en-meget-soegt-forklaring-hvis-man-undlod-at-betale-paa-grund-af-krigsklausul/  
 https://www.computerworld.dk/art/259931/saadan-kan-russiske-hackere-vaere-kommet-ind-i-danske-lifas-it-systemer-direktoer-thomas-boding-naegter-at-betale-loesepenge
 
-#### 04.03.2022
+### 04.03.2022
 https://jyllands-posten.dk/jplokal/jpranders/ECE13792059/hvorfor-skulle-et-russisk-cyberangreb-blive-rettet-mod-en-dansk-by-ifoelge-professor-er-der-to-grunde/
