@@ -13,7 +13,7 @@ According to Computerworld on the 3rd of March, Director Thomas Boding denies to
 Hit by ransomware
 
 ## Security Advisor
-Unknown
+Truesec  
 
 ## Related Indicators
 Unknown
