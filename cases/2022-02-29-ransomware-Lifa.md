@@ -12,6 +12,10 @@ According to Computerworld on the 3rd of March, Director Thomas Boding denies to
 ### 29/02 to 01/03 2022
 Hit by ransomware
 
+
+### 11/03 2022
+Relased Q&A in Danish: https://www.linkedin.com/posts/lifa-a-s_qa-hackerangreb-activity-6908007387949899776-eF69/ - [backup image](https://github.com/VSecDK/VSec-CTI-League/blob/main/cases/images/Q_A_Hackerangreb_1647015245.pdf)
+
 ## Security Advisor
 Truesec  
 
