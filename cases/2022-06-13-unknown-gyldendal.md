@@ -5,12 +5,13 @@ Sector: Publishing
 Actor: Unknown   
 
 ## Description  
+TBA
 
 ## Timeline
 TBD
 
 ## Security Advisor
-Unknown
+Eagle Shark
 
 ## Related Indicators of compromise
 Unknown
