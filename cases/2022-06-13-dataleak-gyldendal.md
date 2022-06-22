@@ -30,3 +30,4 @@ https://gyldendal-uddannelse.dk/landingpages/information-om-sikkerhedsbrist - [b
 https://nyheder.tv2.dk/samfund/2022-06-13-skoler-og-institutioner-ramt-af-stort-datalaek-750000-boern-og-voksnes
 https://www.version2.dk/artikel/aaben-datadoer-hos-gyldendal-mystisk-ip-lavede-73000-opslag-om-elever-og-laerere   
 https://www.reddit.com/r/Denmark/comments/vc16lv/%C3%A5ben_datad%C3%B8r_hos_gyldendal_mystisk_ip_lavede/   
+https://www.version2.dk/artikel/gyldendal-indstillet-til-gdpr-millionboede-gemte-persondata-i-ti-aar   
