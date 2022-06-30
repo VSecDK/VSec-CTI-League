@@ -1,4 +1,4 @@
-# 2022-04-18 - Ransomware 
+# 2022-04-18 - Ransomware - JBS Textile Group
 Company: [JBS Textile Group](https://jbstextilegroup.com/)   
 Type: Ransomware  
 Sector: Retail / Clothing   
