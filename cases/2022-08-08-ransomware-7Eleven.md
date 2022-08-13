@@ -39,6 +39,7 @@ https://www.bleepingcomputer.com/news/security/7-eleven-denmark-confirms-ransomw
 https://nyheder.tv2.dk/samfund/2022-08-10-7-eleven-ramt-af-omfattende-hackerangreb  
 https://www.computerworld.dk/art/261795/7-eleven-har-modtaget-trussel-med-krav-om-loesesum-paa-en-million-dollar  
 https://www.computerworld.dk/art/261788/flere-og-flere-7-eleven-butikker-aabner-efter-hackerangreb  
+https://nyheder.tv2.dk/samfund/2022-08-10-angreb-paa-7-eleven-var-planlagt-i-noget-tid  
 
 ### 11.08.2022
 https://www.zetland.dk/historie/soNA91r7-mO3rPq9E-8e485   
