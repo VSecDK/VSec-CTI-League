@@ -27,6 +27,7 @@ Unknown
 ### 08.08.2022
 https://www.bleepingcomputer.com/news/security/7-eleven-stores-in-denmark-closed-due-to-a-cyberattack/   
 https://www.computerworld.dk/art/261767/7-eleven-ramt-af-kaempe-it-nedbrud-muligt-hackerangreb-holder-alle-danske-butikker-lukket   
+https://ekstrabladet.dk/nyheder/samfund/7-eleven-ramt-af-nedbrud/9370129   
 
 ### 09.08.2022
 https://www.computerworld.dk/art/261774/7-eleven-har-i-nattens-loeb-genaabnet-fem-danske-butikker-efter-stort-hacker-angreb-170-butikker-stadig-lukket   
