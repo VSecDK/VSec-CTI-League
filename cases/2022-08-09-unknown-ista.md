@@ -22,4 +22,8 @@ Unknown
 ## References   
 
 ### 09.08.2022   
-https://www.computerworld.dk/art/261775/dansk-energiselskab-ramt-af-kaempe-hackerangreb-alle-it-systemer-lukket-ned-omgaaende  
+https://www.computerworld.dk/art/261775/dansk-energiselskab-ramt-af-kaempe-hackerangreb-alle-it-systemer-lukket-ned-omgaaende   
+
+### 10.08.2022   
+https://www.berlingske.dk/virksomheder/dansk-energiselskab-lammet-af-cyberangreb-paa-tredje-uge  
+https://www.version2.dk/artikel/dansk-energiselskab-ramt-af-stort-cyberangreb-systemer-offline-siden-25-juli  
