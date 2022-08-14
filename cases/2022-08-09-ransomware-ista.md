@@ -1,4 +1,4 @@
-# 2022-08-08 - Uknown - Ista Danmark A/S
+# 2022-08-08 - Ransomware - Ista Danmark A/S
 Company: [Ista Danmark A/S](https://www.ista.com/dk/)   
 Type: Ransomware  
 Sector: Energy  
