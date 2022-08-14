@@ -34,6 +34,7 @@ https://www.computerworld.dk/art/261774/7-eleven-har-i-nattens-loeb-genaabnet-fe
 https://nyheder.tv2.dk/samfund/2022-08-09-7-eleven-har-abnet-hver-tiende-butik-efter-hackerangreb  
 https://nordjyske.dk/nyheder/erhverv/hacker-til-nordjysk-7eleven-butik-send-en-million-dollars/3349979  
 https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2022-08-09-08-00 (03.30->)  
+https://www.dr.dk/nyheder/indland/ekspert-om-muligt-hackerangreb-mod-7-eleven-det-kan-vaere-spoergsmaal-om-liv-eller  
 
 ### 10.08.2022
 https://www.bleepingcomputer.com/news/security/7-eleven-denmark-confirms-ransomware-attack-behind-store-closures/   
