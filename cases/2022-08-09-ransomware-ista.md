@@ -31,3 +31,6 @@ https://www.computerworld.dk/art/261775/dansk-energiselskab-ramt-af-kaempe-hacke
 https://www.berlingske.dk/virksomheder/dansk-energiselskab-lammet-af-cyberangreb-paa-tredje-uge  
 https://www.version2.dk/artikel/dansk-energiselskab-ramt-af-stort-cyberangreb-systemer-offline-siden-25-juli  
 https://www.databreaches.net/scoop-ista-international-takes-systems-offline-in-wake-of-ransomware-attack-daixin-team-claims-thousands-of-servers-encrypted/  
+
+### 16.08.2022
+https://www.version2.dk/artikel/ista-hackere-offentliggoer-stjaalne-virksomhedsdata  
