@@ -48,6 +48,6 @@ https://www.zetland.dk/historie/soNA91r7-mO3rPq9E-8e485
 https://www.computerworld.dk/art/261814/7-eleven-naegter-at-betale-ransomware-til-hackere-efter-kaempe-angrebet-mandag   
 https://www.linkedin.com/feed/update/urn:li:activity:6963392115309486080/  
 
-### 29.09.2022   
+### 26-29.08.2022   
 https://www.version2.dk/artikel/7-eleven-stadig-paavirket-af-ransomwareangreb-der-gaar-formentlig-et-stykke-tid-foer-vi-100   
 https://www.facebook.com/7elevendk/photos/a.133509326663749/5950914334923190/
